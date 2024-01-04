@@ -1,0 +1,20 @@
+.container{
+    display:flex; 
+    border-radius: 30px;
+    gap: 1em;
+    flex-direction: row;
+    justify-content:space-around;
+    align-content: flex-start; 
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+  
+
+     /*  
+   
+     overflow: auto;
+   
+
+ 
+  */
+}

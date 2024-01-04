@@ -1,0 +1,25 @@
+.container{
+    background-image: url('https://i.pinimg.com/originals/88/d7/9e/88d79ecf8069585d6e1b95a5805098df.jpg');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.buttonLand{
+    border: black;
+    display: flex;
+    height: 50px;
+    width: 60px;
+    font-weight: bold;
+    justify-content: center;
+    border-radius: 10px;
+    align-items: center;
+}
